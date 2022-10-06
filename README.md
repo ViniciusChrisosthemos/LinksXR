@@ -5,3 +5,4 @@ Database of XR development features in Unity
 
 - Stereo View with Google Cardboard - https://www.youtube.com/watch?v=qZzhXHqXM-g;
 - Switch between Normal and Stereo View in Rutime - http://talesfromtherift.com/googlevr-cardboard-switch-between-normal-mode-and-vr-mode-at-run-time/ 
+- Create AssetBundle via command line - https://github.com/yanagiragi/Unity-Assetbundles-CLI-Example
